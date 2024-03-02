@@ -12,5 +12,24 @@
             "sizes": "256x256",
             "type": "image/png"
         }
+    ],
+    "screenshots": [
+      {
+        "src": "/img/screenshot/desktop-ss.png",
+        "sizes": "1900x1016",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/img/screenshot/mobile-ss.png",
+        "sizes": "697x937",
+        "type": "image/png",
+        "form_factor": "not set"
+      }
+    ],
+    "prefer_related_applications": false,
+    "related_applications": [],
+    "categories": [
+      "category"
     ]
 }
