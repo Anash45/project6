@@ -23,8 +23,7 @@
       {
         "src": "/img/screenshot/mobile-ss.png",
         "sizes": "697x937",
-        "type": "image/png",
-        "form_factor": "not set"
+        "type": "image/png"
       }
     ],
     "prefer_related_applications": false,
